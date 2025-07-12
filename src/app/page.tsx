@@ -21,7 +21,7 @@ export default function Home() {
         </h1>
         <h1 className="text-1xl font-bold text-left drop-shadow-lg mt-5">Game Developer</h1>
       </div>
-      <div className="fixed w-full h-screen bottom-0 right-0">
+      <div className="fixed bottom-0 right-0 m-5">
       <Image
         src="./images/asterias.png"
         alt="light mode icon"
